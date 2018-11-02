@@ -25,8 +25,8 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.9.1</muleVersion>
-					<username>sami-ran</username>
-					<password>samb11!H</password>
+					<username>samiran_m3b1</username>
+					<password>Samiran@123</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
 					<environment>Sandbox</environment>
